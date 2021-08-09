@@ -91,7 +91,7 @@ html{
 }
 #services-container{
    margin-top: 58px;
-   padding:0px 24px;
+   padding: 40px 0px;
 }
 #services .box{
    border:2px solid red;
@@ -183,7 +183,7 @@ footer{
     font-size:2.8rem;
     padding:12px;
     font-family: 'Piedra', cursive;
-
+    margin-top: -6px;
 }
 .h-secondary{
     font-size:2rem;
